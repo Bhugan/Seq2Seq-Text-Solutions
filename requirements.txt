@@ -16,3 +16,4 @@ matplotlib
 gtts
 sentencepiece
 wordcloud
+deepspeech
